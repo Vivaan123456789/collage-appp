@@ -1,0 +1,24 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:5px dashed blanchedalmond;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+body {
+    background: rgb(251,63,233);
+background: radial-gradient(circle, rgba(251,63,233,1) 0%, rgba(75,57,255,1) 100%);
+}
+ 
